@@ -11,23 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[CVEs_red_team_tools.md](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/CVEs_red_team_tools.md) and ![Image](src)
-[all-clam.ldb](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/all-clam.ldb) and ![Image](src)
-[all-snort.rules](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/all-snort.rules) and ![Image](src)
-[all-yara.yar](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/all-yara.yar) and ![Image](src)
-[signatures_table_of_content.csv](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/signatures_table_of_content.csv) and ![Image](src)
+[CVEs_red_team_tools.md](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/CVEs_red_team_tools.md)
+[all-clam.ldb](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/all-clam.ldb)
+[all-snort.rules](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/all-snort.rules)
+[all-yara.yar](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/all-yara.yar) 
+[signatures_table_of_content.csv](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/signatures_table_of_content.csv)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
