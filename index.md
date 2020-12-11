@@ -1,4 +1,4 @@
-## FireEye-redTeam
+## FireEye RedTeam tool
 
 ```markdown
 [CVEs_red_team_tools.md](https://github.com/fredriclesomar/FireEye-redTeam/blob/master/CVEs_red_team_tools.md)
